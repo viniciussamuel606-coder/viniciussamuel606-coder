@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Full Stack em formação
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Aprendendo+HTML%2C+CSS+e+JavaScript;Construindo+projetos+reais;Buscando+minha+primeira+vaga+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Aprendendo+HTML%2C+CSS+e+JavaScript;Construindo+projetos+reais;%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
